@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: @dimas_prates
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can solve Rubik's cube.
+- 🧑‍💻 Buggers gonna bug!
