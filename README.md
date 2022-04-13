@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning NodeJS, JavaScript, HTML, CSS e GIT.
+- 🌱 I’m currently learning NodeJS, JavaScript, HTML, CSS and GIT.
 - 👯 I’m looking to collaborate on NodeJS's community
 - 📫 How to reach me: @dimas_prates
 - 😄 Pronouns: he/him
