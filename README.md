@@ -23,12 +23,12 @@
 ## &#128187; Knowledge
 
 <table>
-  <tbody>
+  <thead>
     <tr>
-      <td><strong>Improving everyday</strong></td>
-      <td>Body content 2</td>
+      <th><strong>Improving everyday</strong></td>
+      <th>Body content 2</td>
     </tr>
-  </tbody>
+  </thead>
   <tfoot>
   <tr>
       <td><strong>Can't wait to learn</strong></td>
