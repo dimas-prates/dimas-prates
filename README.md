@@ -20,6 +20,14 @@
 - 🧑‍💻 Buggers gonna bug!
 
 ## &#128187; Knowledge
+<table>
+    <tr>
+        <td>ola</td>
+    </tr>
+    <tr>
+        <td>fechou</td>
+    </tr>
+<table>
 
 ## &#128202; GitHub Analytics
 
