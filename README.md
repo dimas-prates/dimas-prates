@@ -1,5 +1,6 @@
 <!-- ### Hi there 👋 -->
-<h1 align="left">Sup! I'm Dimas Prates &#9996;</h1>
+<h1 align="left">Sup! I'm Dimas &#9996;</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
 - &#128084; Currently looking for a Job as Developer
 
