@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 <h1 align="left">Hi <span width="30px">&#9996</span>, I'm Dimas Prates</h1>
-- &#128084 I'm lookin for a Job as Developer
+* &#128084 Currently looking for a Job as Developer
 
 - 🔥 Sênior Web Developer & Instructor focused on helping people start programming
 
@@ -16,8 +16,8 @@
 
 - 🧑‍💻 Buggers gonna bug!
 
-## &#128187 &nbsp; Knowledge
-
+<h2>&#128187 &nbsp; Knowledge<h2>
+***
 
 <!--
 ### Hi there 👋
