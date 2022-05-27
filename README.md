@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/dimas-prates/dimas-prates/main/peace.gif" width="30px">, I'm Dimas Prates</h1>
+<h1 align="left">Hi <span width="30px">&#129409</span>, I'm Dimas Prates</h1>
 
 - 🌱 I’m currently learning NodeJS, JavaScript, HTML, CSS and GIT.
 - 👯 I’m looking to collaborate on NodeJS's community
