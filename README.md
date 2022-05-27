@@ -126,8 +126,8 @@
     <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="" />
     <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="" />
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green" alt="" />
-    <img src="https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green" alt="" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimas-prates&theme=blue-green" alt="" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dimas-prates&theme=blue-green" alt="" />
         </li>
     </ol>
     
