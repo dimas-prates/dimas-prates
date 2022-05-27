@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 <h1 align="left">Hi <span width="30px">&#9996</span>, I'm Dimas Prates</h1>
-
+- &#128084 Took care of linux servers for 4 years, now I'm looking for to help you build/improve an app haha
 - 🌱 I’m currently learning NodeJS, JavaScript, HTML, CSS and GIT.
 - 👯 I’m looking to collaborate on NodeJS's community
 - 📫 How to reach me: @dimas_prates
