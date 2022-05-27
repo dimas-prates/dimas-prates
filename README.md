@@ -128,9 +128,10 @@
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="" />
         </li>
     </ol>
-    
+
 
 ## &#128202; GitHub Analytics
+
 <p align="left">
 <img width="430em" src="https://github-readme-stats.vercel.app/api?username=dimas-prates&show_icons=true&theme=vision-friendly-dark" alt="Dimas's stats"/>
 <img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimas-prates&layout=compact&theme=vision-friendly-dark" alt="Dimas's most languages"/>
