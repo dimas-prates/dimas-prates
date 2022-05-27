@@ -34,7 +34,7 @@
                 <strong>Improving everyday:</strong>
             </td>
             <td>
-                <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" /> <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" />
+                <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />&nbsp;<img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" />&nbsp;
             </td>
         </tr>
     </tbody>
