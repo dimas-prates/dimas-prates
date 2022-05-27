@@ -25,8 +25,8 @@
 <table>
   <thead>
     <tr>
-      <th><strong>Improving everyday</strong></td>
-      <th>Body content 2</td>
+      <th><strong>Improving everyday</strong></th>
+      <th>Body content 2</th>
     </tr>
   </thead>
   <tfoot>
