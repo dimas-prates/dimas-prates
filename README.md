@@ -1,7 +1,8 @@
 <!-- ### Hi there 👋 -->
 <h1 align="left">Sup! I'm Dimas &#9996;</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dimas-prates&style=flat-square"/>Thanks for visiting &#128513;</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dimas-prates&style=flat-square"/>Thanks for visiting &#128513;</p>
 
+![](https://komarev.com/ghpvc/?username=dimas-prates&label=PROFILE+VIEWS) Thanks
 - &#128084; Currently looking for a Job as Developer
 
 - &#128170; 4 years of experience, taking care of linux's servers
