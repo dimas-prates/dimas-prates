@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-<h1 align="left">Hi <span width="30px">&#9996</span>, I'm Dimas Prates</h1>
+<h1 align="left">Hi <span width="30px">&#9996;</span>, I'm Dimas Prates</h1>
 
 - &#128084; Currently looking for a Job as Developer
 
@@ -17,11 +17,11 @@
 
 - 🧑‍💻 Buggers gonna bug!
 
-<h2>&#128187 &nbsp; Knowledge<h2>
+<h2>&#128187; &nbsp; Knowledge<h2>
 
-<h2>&#128202 &nbsp;GitHub Analytics<h2>
+<h2>&#128202; &nbsp;GitHub Analytics<h2>
 
-<h2>&#128172 &nbsp; Reach me<h2>
+<h2>&#128172; &nbsp; Reach me<h2>
 
 <!--
 ### Hi there 👋
