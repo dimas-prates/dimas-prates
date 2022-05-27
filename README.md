@@ -21,13 +21,25 @@
 
 ## &#128187; Knowledge
 <table>
+  <thead>
     <tr>
-        <td>ola</td>
+      <th>Header content 1</th>
+      <th>Header content 2</th>
     </tr>
+  </thead>
+  <tfoot>
     <tr>
-        <td>fechou</td>
+      <td>Footer content 1</td>
+      <td>Footer content 2</td>
     </tr>
-<table>
+  </tfoot>
+  <tbody>
+    <tr>
+      <td>Body content 1</td>
+      <td>Body content 2</td>
+    </tr>
+  </tbody>
+</table>
 
 ## &#128202; GitHub Analytics
 
