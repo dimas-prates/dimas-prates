@@ -1,9 +1,9 @@
 <!-- ### Hi there 👋 -->
-<h1 align="left">Hi <span width="30px">&#9996;</span>, I'm Dimas Prates</h1>
+<h1 align="left">Sup <span width="30px">&#9996;</span>! I'm Dimas Prates</h1>
 
 - &#128084; Currently looking for a Job as Developer
 
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming
+- &#128170; 4 years of experience, taking care of linux's servers
 
 - 🌱 I’m currently learning NodeJS, JavaScript, HTML, CSS and GIT.
 
