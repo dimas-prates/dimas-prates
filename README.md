@@ -21,21 +21,13 @@
 
 ## &#128187; Knowledge
 <table>
-  <thead>
-    <tr>
-      <th>Header content 1</th>
-      <th>Header content 2</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Footer content 1</td>
-      <td>Footer content 2</td>
-    </tr>
-  </tfoot>
   <tbody>
     <tr>
-      <td>Body content 1</td>
+      <td>**Improving everyday**</td>
+      <td>Body content 2</td>
+    </tr>
+    <tr>
+      <td>**Can't wait to learn**</td>
       <td>Body content 2</td>
     </tr>
   </tbody>
