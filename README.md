@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 <h1 align="left">Sup! I'm Dimas &#9996;</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dimas-prates&color=blueviolet" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dimas-prates&color=blueviolet" alt="Profile views"/> Thanks for visiting &#128513;</p>
 
 - &#128084; Currently looking for a Job as Developer
 
