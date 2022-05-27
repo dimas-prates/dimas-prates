@@ -18,11 +18,11 @@
 
 - 🧑‍💻 Buggers gonna bug!
 
-<h2>&#128187; Knowledge<h2>
+## &#128187; Knowledge
 
-<h2>&#128202; GitHub Analytics<h2>
+## &#128202; GitHub Analytics
 
-<h2>&#128243; Reach me<h2>
+## &#128243; Reach me
 
 <!--
 ### Hi there 👋
