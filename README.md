@@ -23,16 +23,16 @@
 ## &#128187; Knowledge
 
 <table>
-  <thead>
+  <tbody>
     <tr>
-      <th><strong>Improving everyday</strong></th>
-      <th>Body content 2</th>
+      <td><strong>Improving everyday</strong></td>
+      <td>Body content 2</td>
     </tr>
-  </thead>
+  </tbody>
   <tfoot>
   <tr>
       <td><strong>Can't wait to learn</strong></td>
-      <td>Body content 2</td>
+      <td>![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)</td>
     </tr>
   </tfoot>
 </table>
