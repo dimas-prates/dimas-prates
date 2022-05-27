@@ -32,10 +32,15 @@
   <tfoot>
   <tr>
       <td><strong>Can't wait to learn</strong></td>
-      <td>![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)</td>
+      <td>
+      </td>
     </tr>
   </tfoot>
 </table>
+
+|**Improving everyday**|![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)|
+|---|---|
+|**Can't wait to learn**|![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)|
 
 ## &#128202; GitHub Analytics
 
