@@ -34,26 +34,26 @@
                 <strong>Improving everyday:</strong>
             </td>
             <td>
-                <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt=""/>
-                <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt=""/>
-                <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt=""/>
-                <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt=""/>
-                <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt=""/>
-                <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt=""/>
-                <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt=""/>
-                <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown" alt=""/>
-                <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" alt=""/>
-                <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql" alt=""/>
-                <img src="https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite" alt=""/>
+                <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript"/>
+                <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="Node.js"/>
+                <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML"/>
+                <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS"/>
+                <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git"/>
+                <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub"/>
+                <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown" alt="Markdown"/>
+                <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code"/>
+                <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql" alt="PostgreSQL"/>
+                <img src="https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite" alt="SQLite"/>
             </td>
         </tr>
     </tbody>
     <tfoot>
          <tr>
             <td>
-                <strong>Can't wait to learn:</strong>
+                Can't wait to learn:
             </td>
             <td>
+                <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="React"/>
             </td>
         </tr>
     </tfoot>
