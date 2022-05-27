@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-<h1 align="left">Sup <span width="30px">&#9996;</span>! I'm Dimas Prates</h1>
+<h1 align="left">Sup! I'm Dimas Prates &#9996;</h1>
 
 - &#128084; Currently looking for a Job as Developer
 
