@@ -21,7 +21,7 @@
 
 ## &#128187; Knowledge
 <table>
-  <tbody>
+  <!-- <tbody> -->
     <tr>
       <td><strong>Improving everyday</strong></td>
       <td>Body content 2</td>
@@ -30,7 +30,7 @@
       <td><strong>Can't wait to learn</strong></td>
       <td>Body content 2</td>
     </tr>
-  </tbody>
+  <!-- </tbody> -->
 </table>
 
 ## &#128202; GitHub Analytics
