@@ -60,12 +60,11 @@
     </tfoot>
 
 </table>
-
-    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white
+    <ol>
+        <li>
+        <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white
     https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="" />
-
-
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="" />
 
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="" />
 
@@ -190,8 +189,6 @@
     <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="" />
 
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="" />
-
-
     <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="" />
 
 
@@ -208,6 +205,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green" alt="" />
 
     <img src="https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green" alt="" />
+        </li>
+    </ol>
+    
 
 ## &#128202; GitHub Analytics
 
