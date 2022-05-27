@@ -3,6 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimas-prates&style=flat-square"/>Thanks for visiting &#128513;</p>
 
 ![](https://komarev.com/ghpvc/?username=dimas-prates&label=PROFILE+VIEWS) Thanks
+
 - &#128084; Currently looking for a Job as Developer
 
 - &#128170; 4 years of experience, taking care of linux's servers
@@ -20,17 +21,20 @@
 - 🧑‍💻 Buggers gonna bug!
 
 ## &#128187; Knowledge
+
 <table>
-  <!-- <tbody> -->
+  <tbody>
     <tr>
       <td><strong>Improving everyday</strong></td>
       <td>Body content 2</td>
     </tr>
-    <tr>
+  </tbody>
+  <tfoot>
+  <tr>
       <td><strong>Can't wait to learn</strong></td>
       <td>Body content 2</td>
     </tr>
-  <!-- </tbody> -->
+  </tfoot>
 </table>
 
 ## &#128202; GitHub Analytics
