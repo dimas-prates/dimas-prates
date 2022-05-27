@@ -19,9 +19,9 @@
 
 <h2>&#128187; Knowledge<h2>
 
-<h2>&#128202; &nbsp;GitHub Analytics<h2>
+<h2>&#128202; GitHub Analytics<h2>
 
-<h2>&#128243; &nbsp; Reach me<h2>
+<h2>&#128243; Reach me<h2>
 
 <!--
 ### Hi there 👋
