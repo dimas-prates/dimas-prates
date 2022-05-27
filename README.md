@@ -1,16 +1,23 @@
 <!-- ### Hi there 👋 -->
 <h1 align="left">Hi <span width="30px">&#9996</span>, I'm Dimas Prates</h1>
-- &#128084 Took care of linux servers for 4 years, now I'm looking for to help you build/improve an app haha
+- &#128084 I'm lookin for a Job as Developer
+
+- 🔥 Sênior Web Developer & Instructor focused on helping people start programming
+
 - 🌱 I’m currently learning NodeJS, JavaScript, HTML, CSS and GIT.
+
 - 👯 I’m looking to collaborate on NodeJS's community
+
 - 📫 How to reach me: @dimas_prates
+
 - 😄 Pronouns: he/him
+
 - ⚡ Fun fact: I can solve Rubik's cube.
+
 - 🧑‍💻 Buggers gonna bug!
 
-Languages and tools:
+## &#128187 &nbsp; Knowledge
 
-Tech Stack
 
 <!--
 ### Hi there 👋
