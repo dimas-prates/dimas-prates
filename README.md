@@ -17,7 +17,10 @@
 - 🧑‍💻 Buggers gonna bug!
 
 <h2>&#128187 &nbsp; Knowledge<h2>
-***
+
+<h2>&#128202 &nbsp;GitHub Analytics<h2>
+
+<h2>&#128172 &nbsp; Reach me<h2>
 
 <!--
 ### Hi there 👋
