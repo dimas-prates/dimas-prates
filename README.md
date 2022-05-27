@@ -44,7 +44,7 @@
                 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code"/>
                 <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql" alt="PostgreSQL"/>
                 <img src="https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite" alt="SQLite"/>
-                <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=sqlite" alt="MongoDB"/>
+                <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=sqlite" alt="MongoDB"/>
             </td>
         </tr>
     </tbody>
