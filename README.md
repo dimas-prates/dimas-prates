@@ -23,11 +23,11 @@
 <table>
   <tbody>
     <tr>
-      <td>**Improving everyday**</td>
+      <td><strong>Improving everyday</strong></td>
       <td>Body content 2</td>
     </tr>
     <tr>
-      <td>**Can't wait to learn**</td>
+      <td><strong>Can't wait to learn</strong></td>
       <td>Body content 2</td>
     </tr>
   </tbody>
