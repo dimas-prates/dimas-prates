@@ -126,14 +126,15 @@
     <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="" />
     <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="" />
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimas-prates&theme=blue-green" alt="" />
-    <img src="https://github-readme-stats.vercel.app/api?username=dimas-prates&theme=blue-green" alt="" />
         </li>
     </ol>
     
 
 ## &#128202; GitHub Analytics
-
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=dimas-prates&show_icons=true&theme=vision-friendly-dark" alt="Dimas's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimas-prates&layout=compact&theme=vision-friendly-dark" alt="Dimas's most languages"/>
+</p>
 ## &#128243; Reach me
 
 <!--
