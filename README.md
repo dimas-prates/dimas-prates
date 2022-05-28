@@ -7,7 +7,7 @@
 </div>
 <div align=left> -->
 
-[Rocketseat >](https://github.com/Rocketseat)
+![Rocketseat >](https://github.com/Rocketseat)
 
 ## Sup! I'm Dimas &#9996;
 <!-- <img align="right" height="50em" src="https://media1.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif?cid=790b76119a1486c58299aff2487280c5387961deb9ea4c5f&rid=giphy.gif&ct=g" alt="penguin typing"/> -->
