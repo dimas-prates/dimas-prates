@@ -1,6 +1,6 @@
 <!-- <h1>⚠️IN MAINTENANCE⚠️</h1> -->
 <div>
-<div align="right">
+<div align="right" width="49%">
 
 ![penguin typing](https://media1.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif?cid=790b76119a1486c58299aff2487280c5387961deb9ea4c5f&rid=giphy.gif)
 
