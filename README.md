@@ -26,8 +26,11 @@
 
 - &#128187; Buggers gonna bug!
 
-## &#128218; Knowledge
+<!-- ## &#128218; Knowledge -->
 
+<h1>
+&#128218; Knowledge
+</h1>
 <table>
     <tbody>
         <tr>
