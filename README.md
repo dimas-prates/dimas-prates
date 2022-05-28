@@ -4,6 +4,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimas-prates&style=flat-square"/>Thanks for visiting &#128513;</p> -->
 <!-- ![](https://komarev.com/ghpvc/?username=dimas-prates&label=PROFILE+VIEWS) -->
+<p align="left">
 
 - &#128188; Currently looking for a Job as a Developer
 
@@ -13,6 +14,7 @@
 
 - &#128187; Buggers gonna bug!
 
+</p>
 <div align="right">
 
 ![penguin typing](https://media1.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif?cid=790b76119a1486c58299aff2487280c5387961deb9ea4c5f&rid=giphy.gif)
