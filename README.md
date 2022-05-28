@@ -132,10 +132,8 @@
 
 ## &#128202; GitHub Analytics
 
-<p align="left">
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=dimas-prates&show_icons=true&theme=vision-friendly-dark" alt="Dimas's stats"/>
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimas-prates&layout=compact&theme=vision-friendly-dark" alt="Dimas's most languages"/>
-</p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=dimas-prates&show_icons=true&theme=vision-friendly-dark" alt="Dimas's stats"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimas-prates&layout=compact&theme=vision-friendly-dark" alt="Dimas's most languages"/>
 
 ## &#128243; Reach me
 
