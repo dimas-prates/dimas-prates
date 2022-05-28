@@ -1,5 +1,6 @@
 <!-- <h1>⚠️IN MAINTENANCE⚠️</h1> -->
-<img align="right" width="100em" alt="penguin typing" src="./penguin.gif" /> 
+<!-- <img align="right" width="100em" alt="penguin typing" src="./penguin.gif" />  -->
+<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
 
 <h1 align="right"> 
     Sup! I'm Dimas &#9996;
