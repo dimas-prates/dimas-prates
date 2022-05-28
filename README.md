@@ -131,11 +131,11 @@
 
 
 ## &#128202; GitHub Analytics
-<p align="center">
-<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimas-prates&layout=compact&theme=vision-friendly-dark" alt="Dimas's most languages"/>
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=dimas-prates&show_icons=true&theme=vision-friendly-dark" alt="Dimas's stats"/>
 
-</p>
+|<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimas-prates&layout=compact&theme=vision-friendly-dark" alt="Dimas's most languages"/>|
+
+|<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=dimas-prates&show_icons=true&theme=vision-friendly-dark" alt="Dimas's stats"/>|
+|--|--|
 
 ## &#128243; Reach me
 
