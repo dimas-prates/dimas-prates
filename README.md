@@ -91,7 +91,7 @@
     </tfoot>
 </table>
 
-## &#128202; GitHub Analytics
+## &#128202; GitHub Stats
 
 <p align="center">
     <img width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimas-prates&layout=compact&theme=nightowl" alt="Dimas's most languages"/>
