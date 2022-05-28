@@ -3,7 +3,7 @@
 
 <!-- <img align="right" min-width="50px" alt="penguin typing" src="./penguin.gif" /> -->
 
-<img  align="right" height="200em" alt="penguin typing" src="./penguin.gif" /> 
+<img  align="right" height="300em" alt="penguin typing" src="./penguin.gif" /> 
 <br clear="right"/>
 
 <h1 align="left"> 
