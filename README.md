@@ -1,5 +1,5 @@
 <h1>⚠️IN MAINTENANCE⚠️</h1>
-<img align="right" height="200em" src="./batma.png">
+<img align="center" height="200em" src="./batma.png">
 
 ## Sup! I'm Dimas &#9996;
 
