@@ -1,6 +1,7 @@
 <!-- <h1>⚠️IN MAINTENANCE⚠️</h1> -->
-<img align="right" height="100em" src="https://media1.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif?cid=790b76119a1486c58299aff2487280c5387961deb9ea4c5f&rid=giphy.gif&ct=g"/>
 <h1 align="left">Sup! I'm Dimas &#9996;</h1>
+
+<img align="right" height="100em" src="https://media1.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif?cid=790b76119a1486c58299aff2487280c5387961deb9ea4c5f&rid=giphy.gif&ct=g"/>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimas-prates&style=flat-square"/>Thanks for visiting &#128513;</p> -->
 <!-- ![](https://komarev.com/ghpvc/?username=dimas-prates&label=PROFILE+VIEWS) -->
@@ -13,42 +14,13 @@
 
 - &#128187; Buggers gonna bug!
 
-<br><br>
-
-## &#128203; Stats
-
-<p align="left">
-    <img width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimas-prates&layout=compact&theme=nightowl" alt="Dimas's most languages"/>
-    <img width="430em" src="https://github-readme-stats.vercel.app/api?username=dimas-prates&show_icons=true&theme=nightowl" alt="Dimas's stats"/>
-</p>
-
-## &#128243; Reach me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/dimas-prates" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://discordapp.com/users/711755910778978386" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-<a href="https://github.com/dimas-prates" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://duolingo.com/dimas_prates" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" alt="Duolingo" />
-</a>
-<a href="https://open.spotify.com/user/tzxviw7ju85soxivb5us8i7jl?si=86b86b040a0649d0" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
-</a>
-</p>
-
 ## &#128218; Knowledge
 
 <table align="left">
     <tbody>
         <tr>
             <td>
-                <strong>Improving everyday:</strong>
+                <strong>Improving everyday</strong>
             </td>
             <td>
                 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
@@ -84,7 +56,7 @@
     <tfoot>
          <tr>
             <td>
-                Can't wait to learn:
+                Can't wait to learn
             </td>
             <td>
                 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -113,6 +85,32 @@
     </tfoot>
 </table>
 
+## &#128203; Stats
+
+<p align="left">
+    <img width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimas-prates&layout=compact&theme=nightowl" alt="Dimas's most languages"/>
+    <img width="430em" src="https://github-readme-stats.vercel.app/api?username=dimas-prates&show_icons=true&theme=nightowl" alt="Dimas's stats"/>
+</p>
+
+## &#128243; Reach me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/dimas-prates" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://discordapp.com/users/711755910778978386" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+<a href="https://github.com/dimas-prates" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://duolingo.com/dimas_prates" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" alt="Duolingo" />
+</a>
+<a href="https://open.spotify.com/user/tzxviw7ju85soxivb5us8i7jl?si=86b86b040a0649d0" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+</a>
+</p>
 
 <!--
 ### Hi there 👋
