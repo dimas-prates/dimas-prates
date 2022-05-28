@@ -1,43 +1,21 @@
 <!-- <h1>⚠️IN MAINTENANCE⚠️</h1> -->
-<!-- ## Sup! I'm Dimas &#9996; -->
+<img align="right" height="250em" alt="penguin typing" src="./penguin.gif" /> 
 
-<!-- <img align="right" min-width="50px" alt="penguin typing" src="./penguin.gif" /> -->
-<img src="penguin.gif" min-width="300px" max-width="300px" width="300px" align="left" alt="logo iuricode">
-
+<h1 align="right"> 
+    Sup! I'm Dimas &#9996;
+</h1>
 <p align="right"> 
  &#128188; Currently looking for a Job as a Developer
 </p>
-
-<p align="right">
+<p align="right"> 
  &#128170; 4 years of experience related to linux's servers
 </p>
-
-<p align="right">
+<p align="right"> 
  &#9889; Fun fact: I can solve Rubik's cube
 </p>
-
-
-<br><br><br><br>
-<img  float="right" height="250em" alt="penguin typing" src="./penguin.gif" /> 
-
-<h1 float="left"> 
-    Sup! I'm Dimas &#9996;
-</h1>
-<p float="left"> 
- &#128188; Currently looking for a Job as a Developer
-</p>
-<p float="left"> 
- &#128170; 4 years of experience related to linux's servers
-</p>
-<p float="left"> 
- &#9889; Fun fact: I can solve Rubik's cube
-</p>
-<p float="left"> 
+<p align="right"> 
  &#128187; Buggers gonna bug!
 </p>
-
-
-<br clear="left">
 
 ## &#128218; Knowledge
 
