@@ -5,11 +5,11 @@
 
 ![](https://komarev.com/ghpvc/?username=dimas-prates&label=PROFILE+VIEWS)
 
-- &#128084; Currently looking for a Job as Developer
+- &#128188; Currently looking for a Job as Developer
 
 - &#128170; 4 years of experience related to linux's servers
 
-- ⚡ Fun fact: I can solve Rubik's cube.
+- &#9889; Fun fact: I can solve Rubik's cube.
 
 - 🧑‍💻 Buggers gonna bug!
 
