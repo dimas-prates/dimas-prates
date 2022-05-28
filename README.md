@@ -132,8 +132,8 @@
 |---------|---------| -->
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimas-prates&layout=compact&theme=nightowl" alt="Dimas's most languages"/>
-<img src="https://github-readme-stats.vercel.app/api?username=dimas-prates&show_icons=true&theme=nightowl" alt="Dimas's stats"/>
+<img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimas-prates&layout=compact&theme=nightowl" alt="Dimas's most languages"/>
+<img width="300em" src="https://github-readme-stats.vercel.app/api?username=dimas-prates&show_icons=true&theme=nightowl" alt="Dimas's stats"/>
 </p>
 
 ## &#128243; Reach me
