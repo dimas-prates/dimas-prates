@@ -1,8 +1,6 @@
-<!-- ### Hi there 👋 -->
 <h1>⚠️IN MAINTENANCE⚠️</h1>
 <h1 align="left">Sup! I'm Dimas &#9996;</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimas-prates&style=flat-square"/>Thanks for visiting &#128513;</p> -->
-
 <!-- ![](https://komarev.com/ghpvc/?username=dimas-prates&label=PROFILE+VIEWS) -->
 
 - &#128188; Currently looking for a Job as a Developer
