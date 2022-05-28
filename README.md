@@ -1,5 +1,5 @@
 <h1>⚠️IN MAINTENANCE⚠️</h1>
-<img align="right" clear="right" height="500em" src="http://www.fillmurray.com/100/100">
+<img align="right" height="500em" src="http://www.fillmurray.com/100/100">
 
 ## Sup! I'm Dimas &#9996;
 
@@ -10,7 +10,7 @@
 - &#9889; Fun fact: I can solve Rubik's cube
 
 - &#128187; Buggers gonna bug!
-<br >
+<br clear="right" >
 
 ## &#128218; Knowledge
 <table>
