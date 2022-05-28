@@ -1,5 +1,5 @@
 <h1>⚠️IN MAINTENANCE⚠️</h1>
-<img align="right" height="250em" src="http://www.fillmurray.com/100/100">
+<img align="right" height="200em" src="http://www.fillmurray.com/100/100">
 
 ## Sup! I'm Dimas &#9996;
 
