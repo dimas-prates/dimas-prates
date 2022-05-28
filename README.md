@@ -125,7 +125,6 @@
         </li>
     </ol>
 
-
 ## &#128202; GitHub Analytics
 
 <!-- |<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimas-prates&layout=compact&theme=nightowl" alt="Dimas's most languages"/>|<img src="https://github-readme-stats.vercel.app/api?username=dimas-prates&show_icons=true&theme=nightowl" alt="Dimas's stats"/>|
