@@ -1,8 +1,9 @@
 <!-- ### Hi there 👋 -->
+<h1>⚠️IN MAINTENANCE⚠️</h1>
 <h1 align="left">Sup! I'm Dimas &#9996;</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dimas-prates&style=flat-square"/>Thanks for visiting &#128513;</p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimas-prates&style=flat-square"/>Thanks for visiting &#128513;</p> -->
 
-![](https://komarev.com/ghpvc/?username=dimas-prates&label=PROFILE+VIEWS) Thanks
+![](https://komarev.com/ghpvc/?username=dimas-prates&label=PROFILE+VIEWS)
 
 - &#128084; Currently looking for a Job as Developer
 
@@ -129,7 +130,7 @@
 <a href="https://github.com/dimas-prates" target="_blank">
   <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://github.com/dimas-prates" target="_blank">
+<a href="https://open.spotify.com/user/tzxviw7ju85soxivb5us8i7jl?si=86b86b040a0649d0" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
 </a>
 
