@@ -2,17 +2,17 @@
 <!-- ## Sup! I'm Dimas &#9996; -->
 
 <!-- <img align="right" min-width="50px" alt="penguin typing" src="./penguin.gif" /> -->
-<img src="penguin.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="logo iuricode">
+<img src="penguin.gif" min-width="300px" max-width="300px" width="300px" align="left" alt="logo iuricode">
 
-<p align="left"> 
+<p align="right"> 
  &#128188; Currently looking for a Job as a Developer
 </p>
 
-<p align="left">
+<p align="right">
  &#128170; 4 years of experience related to linux's servers
 </p>
 
-<p align="left">
+<p align="right">
  &#9889; Fun fact: I can solve Rubik's cube
 </p>
 
