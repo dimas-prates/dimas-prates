@@ -5,7 +5,7 @@
 ![penguin typing](https://media1.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif?cid=790b76119a1486c58299aff2487280c5387961deb9ea4c5f&rid=giphy.gif&ct=g)
 
 </div>
-<h1 style="text-align: center;">Sup! I'm Dimas &#9996;</h1>
+<h1 style="text-align: right;">Sup! I'm Dimas &#9996;</h1>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimas-prates&style=flat-square"/>Thanks for visiting &#128513;</p> -->
 <!-- ![](https://komarev.com/ghpvc/?username=dimas-prates&label=PROFILE+VIEWS) -->
