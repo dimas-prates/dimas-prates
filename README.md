@@ -7,15 +7,7 @@
 
 - &#128084; Currently looking for a Job as Developer
 
-- &#128170; 4 years of experience, taking care of linux's servers
-
-- 🌱 I’m currently learning NodeJS, JavaScript, HTML, CSS and GIT.
-
-- 👯 I’m looking to collaborate on NodeJS's community
-
-- 📫 How to reach me: @dimas_prates
-
-- 😄 Pronouns: he/him
+- &#128170; 4 years of experience related to linux's servers
 
 - ⚡ Fun fact: I can solve Rubik's cube.
 
@@ -126,7 +118,6 @@
 
 <!--
 ### Hi there 👋
-
 
 **dimas-prates/dimas-prates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
