@@ -4,12 +4,12 @@
 ![penguin typing](https://media1.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif?cid=790b76119a1486c58299aff2487280c5387961deb9ea4c5f&rid=giphy.gif)
 
 </div>
-<h1 align="left">Sup! I'm Dimas &#9996;</h1>
+<h1 float="left">Sup! I'm Dimas &#9996;</h1>
 <!-- <img align="right" height="50em" src="https://media1.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif?cid=790b76119a1486c58299aff2487280c5387961deb9ea4c5f&rid=giphy.gif&ct=g" alt="penguin typing"/> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimas-prates&style=flat-square"/>Thanks for visiting &#128513;</p> -->
 <!-- ![](https://komarev.com/ghpvc/?username=dimas-prates&label=PROFILE+VIEWS) -->
-<p align="left">
+<p float="left">
 
 - &#128188; Currently looking for a Job as a Developer
 
