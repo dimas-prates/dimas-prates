@@ -82,14 +82,14 @@
 
 ## &#128203; Stats
 
-<p align="left">
+<p>
     <img width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimas-prates&layout=compact&theme=nightowl" alt="Dimas's most languages"/>
     <img width="430em" src="https://github-readme-stats.vercel.app/api?username=dimas-prates&show_icons=true&theme=nightowl" alt="Dimas's stats"/>
 </p>
 
 ## &#128243; Reach me
 
-<p align="left">
+<p>
     <a href="https://www.linkedin.com/in/dimas-prates" target="_blank">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
