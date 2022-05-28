@@ -1,7 +1,7 @@
 <!-- <h1>⚠️IN MAINTENANCE⚠️</h1> -->
-<h1 style='text-align: left;'>Sup! I'm Dimas &#9996;</h1>
+<h1>Sup! I'm Dimas &#9996;</h1>
 
-<img style='text-align: right;' height="50em" src="https://media1.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif?cid=790b76119a1486c58299aff2487280c5387961deb9ea4c5f&rid=giphy.gif&ct=g"/>
+<img align="right" height="50em" src="https://media1.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif?cid=790b76119a1486c58299aff2487280c5387961deb9ea4c5f&rid=giphy.gif&ct=g"/>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimas-prates&style=flat-square"/>Thanks for visiting &#128513;</p> -->
 <!-- ![](https://komarev.com/ghpvc/?username=dimas-prates&label=PROFILE+VIEWS) -->
@@ -13,8 +13,6 @@
 - &#9889; Fun fact: I can solve Rubik's cube
 
 - &#128187; Buggers gonna bug!
-
-<br><br><br><br><br><br><br><br><br><br>
 
 ## &#128218; Knowledge
 
