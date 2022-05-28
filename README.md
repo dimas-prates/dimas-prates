@@ -23,9 +23,7 @@
 </p>
 
 
-<br clear="right">
-</div>
-</div>
+<br clear="left">
 
 ## &#128218; Knowledge
 
