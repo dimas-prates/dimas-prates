@@ -2,7 +2,7 @@
 <div>
 <div align="right" width="49%">
 
-<img width="100em" src="https://media1.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif?cid=790b76119a1486c58299aff2487280c5387961deb9ea4c5f&rid=giphy.gif" alt="Duolingo" />
+<img height="100em" src="https://media1.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif?cid=790b76119a1486c58299aff2487280c5387961deb9ea4c5f&rid=giphy.gif" alt="Duolingo" />
 
 </div>
 <div align=left width="49%">
@@ -106,21 +106,21 @@
 ## &#128243; Reach me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/dimas-prates" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://discordapp.com/users/711755910778978386" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-<a href="https://github.com/dimas-prates" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://duolingo.com/dimas_prates" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" alt="Duolingo" />
-</a>
-<a href="https://open.spotify.com/user/tzxviw7ju85soxivb5us8i7jl?si=86b86b040a0649d0" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
-</a>
+    <a href="https://www.linkedin.com/in/dimas-prates" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://discordapp.com/users/711755910778978386" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    </a>
+    <a href="https://github.com/dimas-prates" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://duolingo.com/dimas_prates" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" alt="Duolingo" />
+    </a>
+    <a href="https://open.spotify.com/user/tzxviw7ju85soxivb5us8i7jl?si=86b86b040a0649d0" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+    </a>
 </p>
 
 <!--
