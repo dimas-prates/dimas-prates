@@ -41,7 +41,6 @@
                 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5" />
                 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS 3" />
                 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT" />
-                <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown" alt="Markdown"/>
                 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" />
                 <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="Prettier" />
                 <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="Eslint" />
@@ -116,13 +115,12 @@
 <a href="https://github.com/dimas-prates" target="_blank">
   <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://open.spotify.com/user/tzxviw7ju85soxivb5us8i7jl?si=86b86b040a0649d0" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
-</a>
 <a href="https://duolingo.com/dimas_prates" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" alt="Duolingo" />
 </a>
-
+<a href="https://open.spotify.com/user/tzxviw7ju85soxivb5us8i7jl?si=86b86b040a0649d0" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+</a>
 
 <!--
 ### Hi there 👋
