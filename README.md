@@ -1,5 +1,5 @@
 <h1>⚠️IN MAINTENANCE⚠️</h1>
-<img align="right" height="500em" src="http://www.fillmurray.com/100/100">
+<img align="right" clear="right" height="500em" src="http://www.fillmurray.com/100/100">
 
 ## Sup! I'm Dimas &#9996;
 
@@ -12,10 +12,7 @@
 - &#128187; Buggers gonna bug!
 <br >
 
-<!-- ## &#128218; Knowledge -->
-<h1 clear="right">
-&#128218; Knowledge
-</h1>
+## &#128218; Knowledge
 <table>
     <tbody>
         <tr>
