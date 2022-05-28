@@ -1,5 +1,5 @@
 <!-- <h1>⚠️IN MAINTENANCE⚠️</h1> -->
-
+<img align="right" height="590em" src="https://media1.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif?cid=790b76119a1486c58299aff2487280c5387961deb9ea4c5f&rid=giphy.gif&ct=g"/>
 <h1 align="left">Sup! I'm Dimas &#9996;</h1>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimas-prates&style=flat-square"/>Thanks for visiting &#128513;</p> -->
@@ -13,7 +13,6 @@
 
 - &#128187; Buggers gonna bug!
 
-<img align="right" src="https://media1.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif?cid=790b76119a1486c58299aff2487280c5387961deb9ea4c5f&rid=giphy.gif&ct=g"/>
 <br><br>
 
 ## &#128218; Knowledge
@@ -89,13 +88,14 @@
 
 ## &#128203; Stats
 
-<p align="center">
+<p align="left">
     <img width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimas-prates&layout=compact&theme=nightowl" alt="Dimas's most languages"/>
     <img width="430em" src="https://github-readme-stats.vercel.app/api?username=dimas-prates&show_icons=true&theme=nightowl" alt="Dimas's stats"/>
 </p>
 
 ## &#128243; Reach me
 
+<p align="left">
 <a href="https://www.linkedin.com/in/dimas-prates" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -111,6 +111,7 @@
 <a href="https://open.spotify.com/user/tzxviw7ju85soxivb5us8i7jl?si=86b86b040a0649d0" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
 </a>
+</p>
 
 <!--
 ### Hi there 👋
