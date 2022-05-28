@@ -10,7 +10,7 @@
 
 - &#9889; Fun fact: I can solve Rubik's cube
 
-- &#128187; Buggers gonna bug!
+- &#128187; Buggers gonna bug! <br clear="right">
 
 ## &#128218; Knowledge
 <table>
