@@ -1,20 +1,5 @@
 <h1>⚠️IN MAINTENANCE⚠️</h1>
-<img align="right" width="300" src="http://www.fillmurray.com/100/100">
-<!-- <h1 align="left"> 
-    Sup! I'm Dimas &#9996;
-</h1>
-<p align="left"> 
- &#128188; Currently looking for a Job as a Developer
-</p>
-<p align="left"> 
- &#128170; 4 years of experience related to linux's servers
-</p>
-<p align="left"> 
- &#9889; Fun fact: I can solve Rubik's cube
-</p>
-<p align="left"> 
- &#128187; Buggers gonna bug!
-</p> -->
+<img align="right" width="100em" src="http://www.fillmurray.com/100/100">
 
 ## Sup! I'm Dimas &#9996;
 
@@ -25,12 +10,9 @@
 - &#9889; Fun fact: I can solve Rubik's cube
 
 - &#128187; Buggers gonna bug!
-
-<!-- ## &#128218; Knowledge -->
 <br clear=right>
 
 ## &#128218; Knowledge
-
 <table>
     <tbody>
         <tr>
