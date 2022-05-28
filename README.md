@@ -136,7 +136,7 @@
 <a href="https://www.linkedin.com/in/dimas-prates" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="discordapp.com/users/711755910778978386" target="_blank">
+<a href="https://discordapp.com/users/711755910778978386" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 <a href="https://github.com/dimas-prates" target="_blank">
