@@ -1,7 +1,5 @@
 <!-- <h1>⚠️IN MAINTENANCE⚠️</h1> -->
-<!-- <img align="right" width="100em" alt="penguin typing" src="./penguin.gif" />  -->
-<img align="right" width="100" height="100" src="xw.gif">
-<h1 align="left"> 
+<!-- <h1 align="left"> 
     Sup! I'm Dimas &#9996;
 </h1>
 <p align="left"> 
@@ -15,7 +13,17 @@
 </p>
 <p align="left"> 
  &#128187; Buggers gonna bug!
-</p>
+</p> -->
+
+## Sup! I'm Dimas &#9996;
+
+- &#128188; Currently looking for a Job as a Developer
+
+- &#128170; 4 years of experience related to linux's servers
+
+- &#9889; Fun fact: I can solve Rubik's cube
+
+- &#128187; Buggers gonna bug!
 
 ## &#128218; Knowledge
 
