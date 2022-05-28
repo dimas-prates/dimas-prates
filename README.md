@@ -5,19 +5,19 @@
 
 <img  float="right" height="250em" alt="penguin typing" src="./penguin.gif" /> 
 
-<h1 align="left"> 
+<h1 float="left"> 
     Sup! I'm Dimas &#9996;
 </h1>
-<p align="left"> 
+<p float="left"> 
  &#128188; Currently looking for a Job as a Developer
 </p>
-<p align="left"> 
+<p float="left"> 
  &#128170; 4 years of experience related to linux's servers
 </p>
-<p align="left"> 
+<p float="left"> 
  &#9889; Fun fact: I can solve Rubik's cube
 </p>
-<p align="left"> 
+<p float="left"> 
  &#128187; Buggers gonna bug!
 </p>
 
