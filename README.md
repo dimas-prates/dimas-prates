@@ -1,5 +1,5 @@
 <!-- <h1>⚠️IN MAINTENANCE⚠️</h1> -->
-<div width="100%">
+<div>
 <div float="right">
 
 <img height="100em" src="https://media1.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif?cid=790b76119a1486c58299aff2487280c5387961deb9ea4c5f&rid=giphy.gif" alt="Penguin typing" />
