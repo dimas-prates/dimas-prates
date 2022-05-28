@@ -28,7 +28,7 @@
 
 <!-- ## &#128218; Knowledge -->
 
-<h1>
+<h1 width="100%">
 &#128218; Knowledge
 </h1>
 <table>
