@@ -54,7 +54,8 @@
                 Can't wait to learn:
             </td>
             <td>
-                <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="React"/>
+                <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white
+    https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Heroku" />
             </td>
         </tr>
     </tfoot>
@@ -62,8 +63,6 @@
 </table>
     <ol>
         <li>
-        <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white
-    https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="" />
@@ -127,12 +126,9 @@
 
 ## &#128202; GitHub Analytics
 
-<!-- |<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimas-prates&layout=compact&theme=nightowl" alt="Dimas's most languages"/>|<img src="https://github-readme-stats.vercel.app/api?username=dimas-prates&show_icons=true&theme=nightowl" alt="Dimas's stats"/>|
-|---------|---------| -->
-
 <p align="center">
-<img width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimas-prates&layout=compact&theme=nightowl" alt="Dimas's most languages"/>
-<img width="430em" src="https://github-readme-stats.vercel.app/api?username=dimas-prates&show_icons=true&theme=nightowl" alt="Dimas's stats"/>
+    <img width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimas-prates&layout=compact&theme=nightowl" alt="Dimas's most languages"/>
+    <img width="430em" src="https://github-readme-stats.vercel.app/api?username=dimas-prates&show_icons=true&theme=nightowl" alt="Dimas's stats"/>
 </p>
 
 ## &#128243; Reach me
