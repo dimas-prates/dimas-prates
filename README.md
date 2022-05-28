@@ -1,4 +1,4 @@
-<img align="right" height="270em" src="./batma.png">
+<img align="right" height="260em" src="./batma.png">
 
 ## Sup! I'm Dimas &#9996;
 
