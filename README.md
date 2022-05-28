@@ -1,5 +1,5 @@
 <!-- <h1>⚠️IN MAINTENANCE⚠️</h1> -->
-<img align="right" width="300" height="100" src="http://www.fillmurray.com/100/100">
+<img align="right" width="300" src="http://www.fillmurray.com/100/100">
 <!-- <h1 align="left"> 
     Sup! I'm Dimas &#9996;
 </h1>
