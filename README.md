@@ -2,8 +2,8 @@
 <!-- ## Sup! I'm Dimas &#9996; -->
 
 <!-- <img align="right" min-width="50px" alt="penguin typing" src="./penguin.gif" /> -->
-<div align="right" >
-<img min-height="10px" alt="penguin typing" src="./penguin.gif" /> 
+<div align="right" min-height="10px">
+<img  alt="penguin typing" src="./penguin.gif" /> 
 </div>
 
 <h1 align="left"> 
