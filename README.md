@@ -1,27 +1,23 @@
 <!-- <h1>⚠️IN MAINTENANCE⚠️</h1> -->
-<!-- <div>
-<div float="right">
 
 <img height="100em" src="https://media1.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif?cid=790b76119a1486c58299aff2487280c5387961deb9ea4c5f&rid=giphy.gif" alt="Penguin typing" />
 
-</div>
-<div align=left> -->
-
-![JavaScript >](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
 ## Sup! I'm Dimas &#9996;
-<!-- <img align="right" height="50em" src="https://media1.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif?cid=790b76119a1486c58299aff2487280c5387961deb9ea4c5f&rid=giphy.gif&ct=g" alt="penguin typing"/> -->
+ <img align="right" max-width="300px" alt="penguin typing" src="https://media1.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif?cid=790b76119a1486c58299aff2487280c5387961deb9ea4c5f&rid=giphy.gif&ct=g" />
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimas-prates&style=flat-square"/>Thanks for visiting &#128513;</p> -->
-<!-- ![](https://komarev.com/ghpvc/?username=dimas-prates&label=PROFILE+VIEWS) -->
-
+<p align="left"> 
 - &#128188; Currently looking for a Job as a Developer
-
+</p>
+<p align="left"> 
 - &#128170; 4 years of experience related to linux's servers
-
+</p>
+<p align="left"> 
 - &#9889; Fun fact: I can solve Rubik's cube
-
+</p>
+<p align="left"> 
 - &#128187; Buggers gonna bug!
+</p>
 
 <br><br><br><br><br><br>
 </div>
@@ -44,7 +40,6 @@
                 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS 3" />
                 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
                 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-                <!-- <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> -->
                 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
                 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" />
                 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="VIM" />
