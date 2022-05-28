@@ -1,7 +1,8 @@
 <h1>⚠️IN MAINTENANCE⚠️</h1>
-<img align="center" height="200em" src="./batma.png">
+<img align="right" height="200em" src="./batma.png">
 
-## Sup! I'm Dimas &#9996;
+<!-- ## Sup! I'm Dimas &#9996; -->
+<h1 align="center"> Sup! I'm Dimas &#9996; </h1>
 
 - &#128188; Currently looking for a Job as a Developer
 
