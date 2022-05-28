@@ -27,10 +27,10 @@
 - &#128187; Buggers gonna bug!
 
 <!-- ## &#128218; Knowledge -->
+<br clear=right>
 
-<h1 width="100%">
-&#128218; Knowledge
-</h1>
+## &#128218; Knowledge
+
 <table>
     <tbody>
         <tr>
