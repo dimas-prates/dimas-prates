@@ -102,7 +102,7 @@
     <a href="https://duolingo.com/dimas_prates" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" alt="Duolingo" />
     </a>
-    <a href="https://open.spotify.com/user/tzxviw7ju85soxivb5us8i7jl?si=86b86b040a0649d0" target="_blank">
+    <a href="https://open.spotify.com/user/tzxviw7ju85soxivb5us8i7jl" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
     </a>
 </p>
