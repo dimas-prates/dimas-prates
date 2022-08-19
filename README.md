@@ -112,7 +112,7 @@
     <img width="430em" src="https://github-readme-stats.vercel.app/api?username=dimas-prates&show_icons=true&theme=nightowl" alt="Dimas's stats"/>
 </p>
 
-## &#128243; Reach me
+## &#128243; Reach me ( :warning: in maintenance)
 
 <p>
     <a href="https://www.linkedin.com/in/dimas-prates" target="_blank">
