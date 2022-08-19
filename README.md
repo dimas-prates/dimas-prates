@@ -133,6 +133,7 @@
     <a href="#" target="_blank">
         <img align="center" src="https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white" alt="Battle.net"/>
     </a>
+    <hr>
     <a href="#" target="_blank">
         <img align="center" src="https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white" alt="EA"/>
     </a>
