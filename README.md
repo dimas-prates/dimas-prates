@@ -1,4 +1,4 @@
-**<img align="right" height="255em" src="./assets/batma.png">
+<img align="right" height="255em" src="./assets/batma.png">
 
 ## Sup! I'm Dimas &#9996;
 
@@ -190,4 +190,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**
