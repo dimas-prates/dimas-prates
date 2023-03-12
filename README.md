@@ -4,7 +4,7 @@
 
 - &#128188; Currently working as an IT Consultant
 
-- &#128170; 4 years of experience related to linux servers
+- &#128170; 5 years of experience related to linux servers
 
 - &#9889; Fun fact: I can solve Rubik's cube
 
