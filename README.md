@@ -2,7 +2,7 @@
 
 ## Sup! I'm Dimas &#9996;
 
-- &#128188; Currently looking for a Job as a Developer
+- &#128188; Currently working as an IT Consultant
 
 - &#128170; 4 years of experience related to linux servers
 
